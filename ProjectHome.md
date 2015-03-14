@@ -1,0 +1,1 @@
+See the summary.  This really isn't a meaningful Eclipse plugin, however it's fun to hear Wonka scream when stressed out at work.  :)
